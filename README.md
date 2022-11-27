@@ -17,6 +17,9 @@
 - 📫 How to reach me: call: 0326.813.947 mail: minhngocyn1@gmail.com <br>
 - ⚡ Fun fact: " Nếu không có requirements hoặc design thì lập trình cũng chỉ như là nghệ thuật của việc thêm bug vào đoạn trống của text file mà thôi" <br>
 
+## 📫 How to reach me:
+
+[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 <p align="center">
   <a href="https://linkedin.com/in/tien-nhm" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
