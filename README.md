@@ -9,7 +9,7 @@
 <br>
 <br>
 <br>
-# 💫About Me :
+# 💫About Me : <br>
 - 🔭 Mobile app research at Google Developer Student club (Dart & Flutter) <br>
 - 🌱 I’m currently learning Hanoi University of Science and Technology <br>
 - 🤔 I’m looking for help with Python & Mobile app (Dart & Flutter) <br>
