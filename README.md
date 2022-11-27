@@ -3,7 +3,8 @@
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
-
+<br> 
+<br>
 # 💫About Me :
 - 🔭 Mobile app research at Google Developer Student club (Dart & Flutter)
 - 🌱 I’m currently learning Hanoi University of Science and Technology
