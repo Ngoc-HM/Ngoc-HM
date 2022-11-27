@@ -1,5 +1,5 @@
 # 💫About Me :
-- 🔭 
+- 🔭 Mobile app research at Google Developer Student club (Dart & Flutter)
 - 🌱 I’m currently learning Hanoi University of Science and Technology
 - 🤔 I’m looking for help with Python & Mobile app (Dart & Flutter)
 - 💬 if you are free, you can ask me about anything
