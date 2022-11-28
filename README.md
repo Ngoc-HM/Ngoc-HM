@@ -53,8 +53,12 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NgocJQK&icon=0&color=0)](https://visitcount.itsvg.in)
+// ![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
 
-<p align="center"> ![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif) </p>
+<p align="center"> <video autoplay>
+    <source src="https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif">
+</video>  </p>
+
 
 <a href=#><img src="contributions.svg"></a>
 
