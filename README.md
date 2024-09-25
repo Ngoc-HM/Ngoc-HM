@@ -12,7 +12,7 @@
 # 💫About Me : <br>
 - 🔭 Mobile app research at Google Developer Student club (Dart & Flutter) <br>
 - 🌱 I’m currently learning Hanoi University of Science and Technology <br>
-- 🤔 I’m looking for help with Blockchain, Python & Mobile app (Dart & Flutter) <br>
+- 🤔 I’m looking for help with LLM Gen AI, Python & Mobile app (Dart & Flutter) <br>
 - 💬 if you are free, you can ask me about anything <br>
 - 📫 How to reach me: call: 0326.813.947 mail: minhngocyn1@gmail.com <br>
 - ⚡ Fun fact: " Nếu không có requirements hoặc design thì lập trình cũng chỉ như là nghệ thuật của việc thêm bug vào đoạn trống của text file mà thôi" <br>
