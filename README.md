@@ -1,4 +1,6 @@
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
+<img align="left" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2FvYm0wYnc4Y2Zuemhqa2lrbm11dTdiNzg1ZDBueHZ0N3preHgwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/901mxGLGQN2PyCQpoc/giphy.gif">
+
 <h1 align="center">Hi 👋, I'm Hoang Minh Ngoc</h1>
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam </h3>
